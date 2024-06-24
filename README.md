@@ -1,9 +1,7 @@
-<div>
+<div >
+  <h1 align="center">HI there!!!, Welcome to my page 👋 </h1>
   
-</div>
----
-
-```
+  ```
 const introduction = async () => {
   const name = 'Andres Alvarez';
   const profession = 'Computer Ingenier';
@@ -16,8 +14,17 @@ const introduction = async () => {
   });
 };
 
-await introduceYourself();
+await introduction();
 ```
+</div>
+
+<section>
+  <h1 align = "center">About Me</h1>
+  <div>
+    <p>FullStack Developer for both mobile and web applications</p>
+  </div>
+  
+</section>
 
 Skills: React, Angular, JavaScript, TypeScript, Ionic, React Native, python, C#
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/radsylph)  
