@@ -1,9 +1,9 @@
 ### const Greetings: string = 'Hello there!';
 #### const Welcome = async (Viewer): void => {
-  console.log(`${ToMyPage}, welcome to my GitHub profile!`);
-  console.log("Here, you'll find some of my most exciting projects and collaborations.");
-  console.log("Feel free to explore and reach out if you have any questions or ideas!");
-}
+####   console.log(`${ToMyPage}, welcome to my GitHub profile!`);
+####  console.log("Here, you'll find some of my most exciting projects and collaborations.");
+####  console.log("Feel free to explore and reach out if you have any questions or ideas!");
+####}
 ##### Welcome(Greetings);
 
 ---
