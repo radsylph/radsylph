@@ -34,12 +34,11 @@ await introduction();
 </section>
 
 <section>
-  <h1 align="center">My Skills</h1>
-  <div>
+<div>
+  <h2 align="center">My Skills</h2>
     <div>
-      <h2>Hard Skills</h2>
-      <h3>Programming Languages as of now</h3>
-      <div>
+      <h3 align="center">Programming Languages as of now</h3>
+      <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" alt="TypeScript logo" />
@@ -49,8 +48,8 @@ await introduction();
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python logo" />
       <img width="12" />
       </div>
-      <h3>Frameworks & Libraries</h3>
-      <div>
+      <h3 align="center">Frameworks & Libraries</h3>
+      <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="AngularJS logo" />
@@ -62,8 +61,8 @@ await introduction();
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="flask logo"  />
-      <h3>Other technologies<h3>
-      <div>
+      <h3 align="center">Other technologies<h3>
+      <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="HTML5 logo" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="CSS3 logo" />
@@ -83,6 +82,7 @@ await introduction();
 </section>
 
 <section>
+  <h1 align="center">My stats</h1>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=radsylph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=radsylph&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
