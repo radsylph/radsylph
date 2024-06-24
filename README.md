@@ -8,10 +8,10 @@
 
 ---
 
-```TypeScript
-const introduction = () => {
-  const name = 'Your Name';
-  const profession = 'Developer';
+```
+const introduction = async () => {
+  const name = 'Andres Alvarez';
+  const profession = 'Computer Ingenier';
   const interests = ['coding', 'learning new technologies', 'collaborating on projects'];
 
   console.log(`Hi! I'm ${name}.`);
@@ -21,7 +21,7 @@ const introduction = () => {
   });
 };
 
-introduceYourself();
+await introduceYourself();
 ```
 
 Skills: React, Angular, JavaScript, TypeScript, Ionic, React Native, python, C#
