@@ -87,19 +87,9 @@ await introduction();
   <img src="https://github-readme-stats.vercel.app/api?username=radsylph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=radsylph&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
-  <div>
-   
-  </div>
 </section>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=radsylph)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=radsylph&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radsylph)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=radsylph&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/radsylph)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=radsylph)  
 
