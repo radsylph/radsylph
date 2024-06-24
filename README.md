@@ -85,14 +85,15 @@ await introduction();
   <h1 align="center">My stats</h1>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=radsylph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=radsylph&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=radsylph&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
+  <div>
+   
+  </div>
 </section>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/radsylph)  
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=radsylph)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radsylph)](https://github.com/anuraghazra/github-readme-stats)
 
