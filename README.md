@@ -1,10 +1,10 @@
 <div >
   <h1 align="center">HI there!!!, Welcome to my page 👋 </h1>
   
-  ```
-const introduction = async () => {
+  ```javascript
+const introduction = () => {
   const name = 'Andres Alvarez';
-  const profession = 'Computer Ingenier';
+  const profession = 'Computer Engineer';
   const interests = ['coding', 'learning new technologies', 'collaborating on projects'];
 
   console.log(`Hi! I'm ${name}.`);
@@ -14,7 +14,7 @@ const introduction = async () => {
   });
 };
 
-await introduction();
+introduction();
 ```
 </div>
 
