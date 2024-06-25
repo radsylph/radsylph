@@ -2,19 +2,17 @@
   <h1 align="center">HI there!!!, Welcome to my page 👋 </h1>
   
   ```javascript
-const introduction = () => {
-  const name = 'Andres Alvarez';
-  const profession = 'Computer Engineer';
-  const interests = ['coding', 'learning new technologies', 'collaborating on projects'];
-
-  console.log(`Hi! I'm ${name}.`);
-  console.log(`I'm a passionate ${profession} with interests in:`);
-  interests.forEach((interest, index) => {
+    const introduction = () => {
+    const name = 'Andres Alvarez';
+    const profession = 'Computer Engineer';
+    const interests = ['coding', 'learning new technologies', 'collaborating on projects'];
+    console.log(`Hi! I'm ${name}.`);
+    console.log(`I'm a passionate ${profession} with interests in:`);
+    interests.forEach((interest, index) => {
     console.log(`${index + 1}. ${interest}`);
-  });
-};
-
-introduction();
+    });
+  };
+  introduction();
 ```
 </div>
 
