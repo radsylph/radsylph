@@ -87,8 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=radsylph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=radsylph&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
-[![test(https://camo.githubusercontent.com/db3860dbb6d4030c9d057734ae12bded43901fd03cdf79491e39e74922c4abfb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d436573617270616c6163696f7372267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374)] 
-</section>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=radsylph&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
