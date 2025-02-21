@@ -56,7 +56,6 @@
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask logo" />
-    <img src="https://www.fastify.io/images/logo.svg" height="50" alt="Fastify logo" />
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="50" alt="Gin logo" />
   </div>
   <h3 align="center">Mobile Development</h3>
