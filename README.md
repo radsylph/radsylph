@@ -62,7 +62,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="Docker logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="50" alt="Redis logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keycloak/keycloak-original.svg" height="50" alt="Keycloak logo" />
     </div>
   </div>
 </section>
