@@ -16,7 +16,6 @@ Always looking to expand my horizon with a liking to learn new things. With a st
 - 🌱 Currently learning **Bun, Drizzle, SupaBase, Golang**
 - 👯 Open to collaborating on **Open Source projects**
 - 💬 Ask me about **Web Development & Backend Design**
-- 📫 Reach me at **andresalvarezsilva6@gmail.com**
 - ⚡ Fun fact:  
   * I love retro aesthetics (Frutiger Aero & Frutiger Metro)  
   * 🎲 D&D enthusiast
