@@ -1,8 +1,8 @@
 # Hi 👋 I'm Andres Alvarez
 
-### Senior TypeScript Developer
+## Software Developer and Computer Engineer
 
-Computer **Engineer** and Fullstack developer, always looking to expand my horizon with a liking to learn new things. With a strong foundation in both frontend and backend technologies and database management skills, my passion for technology drives me to continuously improve my skills and stay up-to-date with the latest industry trends.
+Always looking to expand my horizon with a liking to learn new things. With a strong foundation in both frontend and backend technologies and database management skills, my passion for technology drives me to continuously improve my skills and stay up-to-date with the latest industry trends.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=radsylph&label=Profile%20views&color=0e75b6&style=flat" alt="radsylph" />
