@@ -24,10 +24,6 @@ Always looking to expand my horizon with a liking to learn new things. With a st
 
 ## 🌐 Connect With Me
 
-  <a href="https://github.com/radsylph">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="40" alt="GitHub" />
-  </a>
-
   <a href="https://www.linkedin.com/in/andres-alvarez-80044b273/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
